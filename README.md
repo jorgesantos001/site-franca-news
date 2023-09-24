@@ -16,47 +16,47 @@ Desenvolvedor
 - CSS
 
 # Explicando a estrutura do HTML utilizada no site
-<!DOCTYPE html>: Esta é uma declaração que define o tipo de documento HTML usado na página.
+!DOCTYPE html>: Esta é uma declaração que define o tipo de documento HTML usado na página.
 
-<html lang="en">: O elemento <html> é a raiz do documento HTML e o atributo lang define o idioma da página, que neste caso está configurado como inglês.
+html lang="en">: O elemento <html> é a raiz do documento HTML e o atributo lang define o idioma da página, que neste caso está configurado como inglês.
 
-<head>: Esta seção contém metadados e informações sobre o documento, como o título da página e links para recursos externos.
+head>: Esta seção contém metadados e informações sobre o documento, como o título da página e links para recursos externos.
 
-<meta charset="UTF-8">: Define a codificação de caracteres como UTF-8, permitindo a exibição de caracteres especiais e internacionais.
-<meta name="viewport" content="width=device-width, initial-scale=1.0">: Define as configurações da viewport para dispositivos móveis e responsivos.
-<title>Franca News</title>: Define o título da página que aparecerá na barra de título do navegador.
-<link rel="stylesheet" type="text/css" href="styles.css">: Vincula um arquivo CSS externo chamado "styles.css" para estilizar a página.
-<body>: O conteúdo principal da página é colocado dentro desta tag.
+meta charset="UTF-8">: Define a codificação de caracteres como UTF-8, permitindo a exibição de caracteres especiais e internacionais.
+meta name="viewport" content="width=device-width, initial-scale=1.0">: Define as configurações da viewport para dispositivos móveis e responsivos.
+title>Franca News</title>: Define o título da página que aparecerá na barra de título do navegador.
+link rel="stylesheet" type="text/css" href="styles.css">: Vincula um arquivo CSS externo chamado "styles.css" para estilizar a página.
+body>: O conteúdo principal da página é colocado dentro desta tag.
 
-<header>: A seção de cabeçalho contém informações de identificação do site.
+header>: A seção de cabeçalho contém informações de identificação do site.
 
-<h1>Franca News</h1>: O título principal do site.
-<nav>: Contém o menu de navegação do site.
+h1>Franca News</h1>: O título principal do site.
+nav>: Contém o menu de navegação do site.
 
-<ul>: Uma lista não ordenada que contém os itens do menu de navegação.
-<li>: Cada item da lista representa um link no menu.
-<a href="home.html">Home</a>
-<a href="economia.html">Economia</a>
-<a href="esportes.html">Esportes</a>
-<a href="politica.html">Política</a>
-<div class="conteudo">: Esta <div> envolve o conteúdo principal da página.
+ul>: Uma lista não ordenada que contém os itens do menu de navegação.
+li>: Cada item da lista representa um link no menu.
+a href="home.html">Home</a>
+a href="economia.html">Economia</a>
+a href="esportes.html">Esportes</a>
+a href="politica.html">Política</a>
+div class="conteudo">: Esta <div> envolve o conteúdo principal da página.
 
-<div class="noticia">: Cada uma dessas <div> representa um bloco de notícia.
-<a href="noticia1.html">: Um link para a página da notícia completa.
-<img src Uma imagem associada à notícia.
-<h2> O título da notícia.
-<p>: A data da notícia.
-<p> O conteúdo da notícia.
-<div class="noticias-pequenas">: Esta <div> envolve notícias menores exibidas na página.
+div class="noticia">: Cada uma dessas <div> representa um bloco de notícia.
+a href="noticia1.html">: Um link para a página da notícia completa.
+img src Uma imagem associada à notícia.
+h2 O título da notícia.
+p A data da notícia.
+p O conteúdo da notícia.
+div class="noticias-pequenas">: Esta <div> envolve notícias menores exibidas na página.
   
-<a href="noticia4.html">: Um link para a página da notícia completa.
-<img src Uma imagem associada à notícia.
-<h3>: O título da notícia menor.
-<div class="contato">: A seção de informações de contato.
+a href="noticia4.html">: Um link para a página da notícia completa.
+img src Uma imagem associada à notícia.
+h3>: O título da notícia menor.
+div class="contato">: A seção de informações de contato.
 
-<h4>Contato</h4>: O subtítulo da seção de contato.
-<p>Email: patrociniojorgeluiz@gmail.com</p>: O endereço de e-mail de contato.
-<h5>Feito por: Jorge Santos</h5>: O nome do criador da página.
+h4>Contato</h4>: O subtítulo da seção de contato.
+p>Email: patrociniojorgeluiz@gmail.com</p>: O endereço de e-mail de contato.
+h5>Feito por: Jorge Santos</h5>: O nome do criador da página.
 
 # Explicando a estrutura de seletores CSS utilizada no site
 1- Seletor global (body):

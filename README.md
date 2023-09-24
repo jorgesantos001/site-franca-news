@@ -1,15 +1,21 @@
-Site Franca News
+# 🗞️ Site Franca News
 O site Franca News é um site de notícias que tem como objetivo levar informações atuais e relevantes para o leitor.
 
-📋 Acesso
-site: https://francanews.netlify.app/
+# 💻 Acesso
+Site: https://francanews.netlify.app/
 
-🛠️ Construído com:
+# 🛠️ Construído com
 Visual Studio Code
 
-✒️ Autor:
+# ✒️ Autor
 Jorge Santos -
 Desenvolvedor
 
-🎁 Obrigado a todos que verificaram o projeto, estou à disposição para qualquer dúvida e sugestão.
+# 📋 Tecnologias utilizadas
+- HTML
+- CSS
+
+# 🎁 Agradecimentos
+Esse projeto foi construído em uma atividade durante minha graduação no curso superior de Desenvolvimento de Software Multiplataforma na Fatec - Faculdade de Tecnologia.
+Obrigado a todos que verificaram o projeto, estou à disposição para qualquer dúvida e sugestão.
 Email: patrociniojorgeluiz@gmail.com

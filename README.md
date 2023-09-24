@@ -43,16 +43,15 @@ Desenvolvedor
 
 <div class="noticia">: Cada uma dessas <div> representa um bloco de notícia.
 <a href="noticia1.html">: Um link para a página da notícia completa.
-<img src="dolar.jpg">: Uma imagem associada à notícia.
-<h2>Dólar encerra a semana a R$ 4,871; Bolsa fecha em queda de 0,53% nesta sexta-feira</h2>: O título da notícia.
-<p>16/09/2023</p>: A data da notícia.
-<p>O dólar encerrou a sexta-feira (15)...</p>: O conteúdo da notícia.
+<img src Uma imagem associada à notícia.
+<h2> O título da notícia.
+<p>: A data da notícia.
+<p> O conteúdo da notícia.
 <div class="noticias-pequenas">: Esta <div> envolve notícias menores exibidas na página.
-
-<div class="noticiapequena">: Cada uma dessas <div> representa uma notícia menor.
+  
 <a href="noticia4.html">: Um link para a página da notícia completa.
-<img src="noticia4.jpg">: Uma imagem associada à notícia.
-<h3>Datafolha: 68% acreditam que Bolsonaro tinha conhecimento sobre venda ilegal de joias; 52% consideram crime</h3>: O título da notícia menor.
+<img src Uma imagem associada à notícia.
+<h3>: O título da notícia menor.
 <div class="contato">: A seção de informações de contato.
 
 <h4>Contato</h4>: O subtítulo da seção de contato.

@@ -16,7 +16,7 @@ Desenvolvedor
 - CSS
 
 # Explicando a estrutura do HTML utilizada no site
-!DOCTYPE html>: Esta é uma declaração que define o tipo de documento HTML usado na página.
+!DOCTYPE html>: Define o tipo de documento HTML usado na página.
 
 html lang="en">: O elemento <html> é a raiz do documento HTML e o atributo lang define o idioma da página, que neste caso está configurado como inglês.
 
@@ -71,10 +71,10 @@ Função: Define estilos para o menu de navegação, incluindo a cor de fundo, p
 4- Seletor da Lista de Navegação (nav ul):
 Função: Define estilos para a lista de navegação dentro do menu, removendo a marcação de lista, definindo o preenchimento e removendo o sublinhado de links.
 
-5- Seletor de Links na Lista de Navegação:
+5- Seletor de Links na Lista de Navegação (nav ul a):
 Função: Define estilos para os links na lista de navegação, removendo o sublinhado de links e definindo a cor do texto como preto.
 
-6- Seletor de Itens da Lista de Navegação:
+6- Seletor de Itens da Lista de Navegação (av li):
 Função: Define estilos para os itens da lista de navegação, incluindo a cor de fundo, a exibição inline, margem à direita e remoção do sublinhado de links.
 
 # 🎁 Agradecimentos

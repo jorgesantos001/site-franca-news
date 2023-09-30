@@ -59,7 +59,7 @@ p>Email: patrociniojorgeluiz@gmail.com</p>: O endereço de e-mail de contato.
 h5>Feito por: Jorge Santos</h5>: O nome do criador da página.
 
 # Explicando a estrutura de seletores CSS utilizada no site
-1- Seletor global (body):
+1- Seletor corpo (body):
 Função: Define estilos globais para todo o corpo da página, incluindo a fonte padrão, cor de fundo, margem, preenchimento e remoção de sublinhado de links.
 
 2- Seletor do cabeçalho (header): 
@@ -74,7 +74,7 @@ Função: Define estilos para a lista de navegação dentro do menu, removendo a
 5- Seletor de Links na Lista de Navegação (nav ul a):
 Função: Define estilos para os links na lista de navegação, removendo o sublinhado de links e definindo a cor do texto como preto.
 
-6- Seletor de Itens da Lista de Navegação (av li):
+6- Seletor de Itens da Lista de Navegação (nav li):
 Função: Define estilos para os itens da lista de navegação, incluindo a cor de fundo, a exibição inline, margem à direita e remoção do sublinhado de links.
 
 # 🎁 Agradecimentos
